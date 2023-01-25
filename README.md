@@ -1,2 +1,2 @@
 # Practice-GOlang-Unit-Test
-a lab practice for Golang Unit test
+a SE lab practice for Golang Unit test
